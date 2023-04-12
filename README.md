@@ -1,11 +1,13 @@
 
 
-Custom Shared Pref library prototype.
+#Custom Shared Pref library prototype.
 Used clean archtitecture.
 Koin for DI.
 Room DB internally for data storage.
 
-Also MainActivty is prresent in which, you can check the testPref method for the library usage.
+
+Way to test:
+You may refer the MainActivty, in which, you can check the testPref method for the library usage.
 
 Attaching the logs:
 
